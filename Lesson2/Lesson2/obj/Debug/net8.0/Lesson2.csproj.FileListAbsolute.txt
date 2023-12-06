@@ -1,0 +1,15 @@
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\bin\Debug\net8.0\Lesson2.exe
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\bin\Debug\net8.0\Lesson2.deps.json
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\bin\Debug\net8.0\Lesson2.runtimeconfig.json
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\bin\Debug\net8.0\Lesson2.dll
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\bin\Debug\net8.0\Lesson2.pdb
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfoInputs.cache
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\Lesson2.AssemblyInfo.cs
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\Lesson2.sourcelink.json
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\Lesson2.dll
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\refint\Lesson2.dll
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\Lesson2.pdb
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\Lesson2.genruntimeconfig.cache
+C:\Users\johaa083\Desktop\Code\C# .NET\C-\Lesson2\Lesson2\obj\Debug\net8.0\ref\Lesson2.dll
